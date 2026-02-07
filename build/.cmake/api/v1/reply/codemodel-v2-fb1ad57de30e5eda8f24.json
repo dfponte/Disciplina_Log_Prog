@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "aula_cmake_c10",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "MeuExecutavel::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-MeuExecutavel-Debug-c620c1a81f64f017b0fb.json",
+					"name" : "MeuExecutavel",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "my_info1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-my_info1-Debug-f5948fa84d2e3b67ac2a.json",
+					"name" : "my_info1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "my_math::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-my_math-Debug-aad88c9a2bd031dfe56c.json",
+					"name" : "my_math",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/danie/Cursos/Logica_Programacao/Projetos_C_Log_Prog/build",
+		"source" : "C:/Users/danie/Cursos/Logica_Programacao/Projetos_C_Log_Prog/projeto_base_cmake"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 8
+	}
+}

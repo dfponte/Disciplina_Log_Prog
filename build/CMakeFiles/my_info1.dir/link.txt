@@ -1,0 +1,2 @@
+C:\MinGW\bin\ar.exe qc libmy_info1.a CMakeFiles/my_info1.dir/src/infox.c.obj
+C:\MinGW\bin\ranlib.exe libmy_info1.a
