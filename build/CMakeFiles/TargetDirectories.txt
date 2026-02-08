@@ -1,5 +1,0 @@
-C:/Users/danie/Cursos/Logica_Programacao/Projetos_C_Log_Prog/build/CMakeFiles/my_math.dir
-C:/Users/danie/Cursos/Logica_Programacao/Projetos_C_Log_Prog/build/CMakeFiles/my_info1.dir
-C:/Users/danie/Cursos/Logica_Programacao/Projetos_C_Log_Prog/build/CMakeFiles/MeuExecutavel.dir
-C:/Users/danie/Cursos/Logica_Programacao/Projetos_C_Log_Prog/build/CMakeFiles/edit_cache.dir
-C:/Users/danie/Cursos/Logica_Programacao/Projetos_C_Log_Prog/build/CMakeFiles/rebuild_cache.dir
